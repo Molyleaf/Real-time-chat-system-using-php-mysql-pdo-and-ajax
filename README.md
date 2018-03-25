@@ -1,1 +1,1 @@
-# Real time chat system using php, mysql, pdo and ajax
+# Real time chat system using PHP, MySQL, PDO and Ajax
